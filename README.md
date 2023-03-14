@@ -2,7 +2,7 @@
 
 :rocket: The template to deploy Reflare to [Cloudflare Workers](https://developers.cloudflare.com/workers/). The `src/index.ts` file contains the route definitions of Reflare. The documentation of Reflare can be found [here](https://github.com/xiaoyang-sde/reflare).
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xiaoyang-sde/reflare-template)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/rokibhasansagar/reflare-cdn-template)
 
 ## Installation
 
@@ -14,10 +14,10 @@ npm install -g wrangler
 wrangler login
 ```
 
-Generate a new project from [reflare-template](https://github.com/xiaoyang-sde/reflare-template) and install the dependencies.
+Generate a new project from [reflare-template](https://github.com/rokibhasansagar/reflare-cdn-template) and install the dependencies.
 
 ```console
-npm init cloudflare reflare-app https://github.com/xiaoyang-sde/reflare-template
+npm init cloudflare reflare-app https://github.com/rokibhasansagar/reflare-cdn-template
 cd reflare-app
 npm install
 ```
