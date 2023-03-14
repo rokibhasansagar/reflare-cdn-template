@@ -26,6 +26,6 @@
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "reflare": "^1.1.0"
+    "reflare": "^1.1.1"
   }
 }
