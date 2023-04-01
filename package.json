@@ -13,7 +13,7 @@
   "author": "Xiaoyang Liu <siujoeng.lau@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20230307.0",
+    "@cloudflare/workers-types": "^4.20230321.0",
     "@typescript-eslint/eslint-plugin": "^5.55.0",
     "@typescript-eslint/parser": "^5.55.0",
     "clean-webpack-plugin": "^4.0.0",
