@@ -26,6 +26,7 @@
     "suppressImplicitAnyIndexErrors": true,
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
+    "ignoreDeprecations": "5.0",
     "types": [
       "@cloudflare/workers-types"
     ]
