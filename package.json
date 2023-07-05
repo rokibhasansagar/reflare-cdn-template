@@ -26,6 +26,6 @@
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "reflare": "^1.1.5"
+    "reflare": "git+https://github.com/rokibhasansagar/reflare.git#v1.1.5"
   }
 }
